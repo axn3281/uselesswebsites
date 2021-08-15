@@ -1,6 +1,7 @@
+#Useless Websites Tutorial
 
 import random
-a=random.randint(7,7)
+a=random.randint(1,7)
 if a>0 and a<2:
         print("https://heeeeeeeey.com/")
 if a>1 and a<3:
